@@ -17,30 +17,6 @@ Warehouse Management System is a web application designed to manage and edit war
 - **React Router**: A library for routing in React applications.
 - **CSS**: Styling the application.
 
-## Project Structure
-
-WarehouseManagementSystem/
-│
-├── public/
-│ ├── index.html
-│ └── ...
-│
-├── src/
-│ ├── components/
-│ │ └── WarehouseDetails/
-│ │ ├── WarehouseDetails.js
-│ │ └── WarehouseDetails.css
-│ │
-│ ├── Slice/
-│ │ └── WarehouseSlice.js
-│ │
-│ ├── App.js
-│ ├── index.js
-│ └── ...
-│
-├── package.json
-├── README.md
-└── ...
 
 ## Getting Started
 
@@ -56,4 +32,4 @@ WarehouseManagementSystem/
    git clone https://github.com/md-ismaeel/warehouse_redux_toolkit.git
    ```
 
-## Hosted Link : [here](https://warehouse-redux-toolkit.vercel.app/).
+## [Hosted Link : warehouse](https://warehouse-redux-toolkit.vercel.app/).
