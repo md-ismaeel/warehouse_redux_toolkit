@@ -20,7 +20,7 @@
     }
 }
 
-@media screen and (min-width:377px) and (max-width:4266px) {
+@media screen and (min-width:377px) and (max-width:426px) {
     .w-details-parent {
         margin-top: 200px !important;
     }
