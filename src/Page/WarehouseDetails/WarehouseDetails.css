@@ -1,0 +1,27 @@
+@media screen and (max-width:320px) {
+    .w-details-parent {
+        width: 300px !important;
+        margin-top: 200px !important;
+    }
+
+    .w-details {
+        width: 300px !important;
+    }
+}
+
+@media screen and (min-width:321px) and (max-width:376px) {
+    .w-details-parent {
+        width: 340px !important;
+        margin-top: 200px !important;
+    }
+
+    .w-details {
+        width: 340px !important;
+    }
+}
+
+@media screen and (min-width:377px) and (max-width:4266px) {
+    .w-details-parent {
+        margin-top: 200px !important;
+    }
+}
